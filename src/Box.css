@@ -1,0 +1,25 @@
+.box {
+  height: 60px;
+  width: 300px;
+  background-color: rebeccapurple;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 5px solid rgb(12, 11, 12);
+  text-align: center;
+
+}
+.number{
+    font-size: 40px;
+    font-weight: 900;
+}
+.btn{
+    height: 100%;
+    width: 33%;
+    background-color: rgb(22, 2, 46);
+    font-size: 3rem;
+    color: white;
+    border: 3px solid rgba(47, 4, 62, 0.838);
+    outline: none;
+    
+}
